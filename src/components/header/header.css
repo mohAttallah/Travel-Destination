@@ -1,0 +1,13 @@
+header{
+    background-color: black;
+    padding: 20px;
+}
+header h1{
+    font-weight: light;
+    background-color: black;
+    color: aqua;
+    font-size: 42px;
+}
+header a{
+    background-color: black;
+}

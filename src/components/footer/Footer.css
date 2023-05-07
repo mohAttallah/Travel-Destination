@@ -1,0 +1,17 @@
+footer {
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+}
+
+footer p,
+footer a {
+    text-align: center;
+    background-color: black;
+}
+footer p{
+    margin: 40px;
+}
+footer a{
+    padding-left: 20px;
+}
